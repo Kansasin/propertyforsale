@@ -1,2 +1,3 @@
-# propertyforsale
-Website for colledge task
+# Задание по веб-разработке
+
+Для группы ПКС-31
